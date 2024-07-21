@@ -1,6 +1,6 @@
 target/
 exercises/progress.db
 
-*/.DS_Store
-*/.idea
-*/.vscode
+.DS_Store
+.idea
+.vscode
